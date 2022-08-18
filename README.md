@@ -75,7 +75,7 @@ global.APIKeys = {
 }
   
 global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.ownername = ["Nimsara_md"]
 ```
 </details>
 
